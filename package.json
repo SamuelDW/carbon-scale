@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "A small css only package for the carbon scale system",
   "main": "index.scss",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bugs": "https://github.com/SamuelDW/carbon-scale/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SamuelDW/carbon-scale"
   },
   "keywords": [
     "carbon",
