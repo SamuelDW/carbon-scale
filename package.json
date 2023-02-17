@@ -1,0 +1,15 @@
+{
+  "name": "@kpopfan4life/carbon-scale",
+  "version": "1.0.0",
+  "description": "A small css only package for the carbon scale system",
+  "main": "index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "carbon",
+    "scss"
+  ],
+  "author": "Samuel Durrant-Walker",
+  "license": "ISC"
+}
